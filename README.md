@@ -1,4 +1,5 @@
-#🍕 Pizza Sales Report Dashboard
+🍕 #Pizza Sales Report Dashboard
+
 📌 Project Overview
 
 This project analyzes pizza sales data to uncover insights about revenue, order trends, product performance, and customer behavior. The analysis is presented through an interactive Power BI dashboard.
@@ -6,8 +7,8 @@ This project analyzes pizza sales data to uncover insights about revenue, order 
 The dashboard enables decision-makers to quickly identify best-selling pizzas, busiest times, and sales trends to support data-driven business decisions.
 
 📊 Dashboard Insights
-🔹 Key Metrics
 
+🔹 Key Metrics
 Total Revenue: 817.86K
 Total Pizzas Sold: 49,574
 Total Orders: 21,350
