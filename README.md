@@ -1,4 +1,4 @@
-🍕 # Pizza Sales Report Dashboard
+🍕  Pizza Sales Report Dashboard
 
 📌 Project Overview
 
@@ -35,6 +35,9 @@ Power BI – Data visualization & dashboard creation
 Excel / CSV – Dataset extract from MySQL SERVER & load it to PowerBI desktop
 DAX & Power Query – Data modeling & transformations
 
+## 📊 Live Dashboard
+👉 View the interactive dashboard here:  
+[Pizza Sales Dashboard on Power BI](https://app.powerbi.com/view?r=eyJrIjoiOTFhMzJhMjctZDkyYy00NzhjLTlkMDAtMWExZTQ4ZmE3MDM1IiwidCI6ImY5OWJhNmUzLWEyYjAtNGU4MS1hZWFkLTk0YTMwNTNmYzMxNCJ9&pageName=64ff92a0504dcafaa099)
 
 📌 Conclusion
 The Pizza Sales Dashboard provides valuable insights into customer preferences, sales trends, and product performance.
